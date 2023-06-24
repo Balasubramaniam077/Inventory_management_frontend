@@ -1,0 +1,18 @@
+#card{
+    margin-top: 20px;
+    margin-left: 220px;
+    cursor: pointer;
+    height: 200px;
+
+}
+
+#tit{
+    padding-top: 14px;
+    
+}
+.table{
+    margin-top: 5%;
+}
+.cardBox{
+    background-color: aqua;
+}
